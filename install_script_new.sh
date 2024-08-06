@@ -12,7 +12,7 @@ main() {
     rm ./RobloxPlayer.zip
 
     echo -e "Downloading MacSploit"
-    curl -O "https://raw.githubusercontent.com/Nexus42Dev/MacSploit/main/MacSploit.zip"
+    curl -O "https://github.com/Nexus42Dev/MacSploit/releases/latest/download/MacSploit.zip"
 
     echo -e "Installing MacSploit"
     unzip -o -q "./MacSploit.zip"
